@@ -1,4 +1,4 @@
-# SAM Masking with Rainbow Patterns
+# SAM Meta AI Masking
 
 This project demonstrates using the Segment Anything Model (SAM) to segment images and apply custom rainbow patterns to the segmented regions.
 
@@ -10,11 +10,11 @@ The script loads an image, generates masks using SAM, and allows you to apply a 
 
 1. **Original Image:**
 
-   ![Original Image](original image.jpg)
+   ![original image.jpg](https://github.com/RahulKB31/SAM_AI_Model/blob/main/original%20image.jpg)
 
 2. **Selected Mask Region:**
 
-   ![Selected Mask](images/selected_mask.jpg)
+   ![selected_mask.jpg](https://github.com/RahulKB31/SAM_AI_Model/blob/main/segmented_image.png)
 
 3. **Processed Image with Rainbow Pattern:**
 
