@@ -1,4 +1,3 @@
-```markdown
 # SAM Masking with Rainbow Patterns
 
 This project demonstrates using the Segment Anything Model (SAM) to segment images and apply custom rainbow patterns to the segmented regions.
@@ -39,7 +38,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or feedback, email [rahulbasavaraj1@gmail.com](rahulbasavaraj1@gmail.com).
-```
+
 
 ### Instructions
 
