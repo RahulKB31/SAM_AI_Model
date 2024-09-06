@@ -9,7 +9,7 @@ This project demonstrates how to use the Segment Anything Model (SAM) for image 
 
 This repository provides a Python script that uses the Segment Anything Model (SAM) to automatically generate masks for a given image. The script allows you to interactively select a region of interest and apply a wavy rainbow pattern to the selected mask.
 
-![Rainbow Pattern](image/processed_image.png)
+![Rainbow Pattern](image\processed_image.png)
 
 ## Requirements
 
