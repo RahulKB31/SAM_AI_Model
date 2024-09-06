@@ -19,7 +19,7 @@ The script loads an image, generates masks using SAM, and allows you to apply a 
 
 3. **Processed Image with Rainbow Pattern:**
 
-   ![Rainbow Pattern](processed_image.png)
+   ![Rainbow Pattern]([processed_image.png](https://github.com/RahulKB31/SAM_AI_Model/blob/main/processed_image.png))
 
 ## Requirements
 
